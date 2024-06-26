@@ -5,6 +5,7 @@ The total applications involved are 3.
 3- show sqing application that will get the data submitted from the retrieve swing application and calculate the total of files that have been searched. 
 
 Architechture Layer Diagram 
+![image](https://github.com/DayanaKhairy/projectDAD/assets/128731847/5ca1e7c3-2581-4759-9909-c33e67488edb)
 
 List of URL endpoints for middleware socket 
 - String url = "jdbc:mysql://localhost:3306/certimentdb";
