@@ -9,7 +9,7 @@ The total applications involved are 3.
 1- certiment browser application a website to upload documents such as files and certificates for civil workers to keep track of their publications or awards. this system can view the documents uploaded and craete its own portfolio
 2- retrieve swing application, based on the documents uploaded the user currently using the application will be able to retrieve the documents data from the certiment application and search for specific document names. 
  they will then be able to save the document data they have searched via socket to a another appication
-3- show sqing application that will get the data submitted from the retrieve swing application and calculate the total of files that have been searched. 
+3- show swing application that will get the data submitted from the retrieve swing application and calculate the total of files that have been searched. 
 
 Architechture Layer Diagram 
 ![image](https://github.com/DayanaKhairy/projectDAD/assets/128731847/5ca1e7c3-2581-4759-9909-c33e67488edb)
