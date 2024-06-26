@@ -19,4 +19,5 @@ Functions and features of the middleware
 4. ensures safety and privacy by only using a specific ip address and port listening number.
 
 The database is certimentdb involves
--2 main tables Documents and Searched Documents.
+-2 main tables Documents and Searched Documents. 
+-Other tables used for the certiment application.
