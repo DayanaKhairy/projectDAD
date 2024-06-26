@@ -1,3 +1,10 @@
+Project Title: Documents File Sharing (CertiMent)
+Group Members: NURUL DAYANA BINTI MOHD KHAIRY,	B032320086
+               NIZKIA SILALAHI BINTI MUSAWIR,	B032320068
+
+Project Proposal:
+[BITP3123 PROJECT PROPOSAL-updated.docx](https://github.com/user-attachments/files/15992318/BITP3123.PROJECT.PROPOSAL-updated.docx)
+
 The total applications involved are 3.
 1- certiment browser application a website to upload documents such as files and certificates for civil workers to keep track of their publications or awards. this system can view the documents uploaded and craete its own portfolio
 2- retrieve swing application, based on the documents uploaded the user currently using the application will be able to retrieve the documents data from the certiment application and search for specific document names. 
